@@ -1,0 +1,20 @@
+{
+  "name": "aula8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "aula8.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongoose": "^9.10.2",
+    "nodemon": "^3.1.14",
+    "swagger-ui-express": "^5.0.1"
+  }
+}
